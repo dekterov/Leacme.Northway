@@ -5,6 +5,7 @@
 This application features the ability to use your device as a compass if the required sensors are available.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71703643-fbba7f00-2d92-11ea-8948-fccb31906111.png)
 
 ## Application Compiling
 
